@@ -32,3 +32,7 @@ Here, the user has created two example problems (model1.xml and model2.xml) in t
 
 This strategy keeps the parameter files small.  It also means that we can create multiple test problems for a given dataset, all pointing to one common data location.  Here, we have focused on property data, but other types of data (like large mesh files or comparison monitoring data) can go here as well.
 
+# FILE FORMATS #
+
+Often, data will be received in a raw format that cannot be directly used by GEOSX.  In this case, we will often preprocess the data with a script to convert it to a usable format.  In this situation, we recommend committing both the original and processed data files to GEOSXDATA, with a description of the data provenance and processing that was done to it.  If the conversion script is generically useful, it should be added to the scripts directory in GEOSX.  A single-purpose script can be kept with the datasets in their GEOSXDATA directory.  Regardless, enough documentation should be provided to clearly identify the data source and reproduce any processing that was done to it.
+  
