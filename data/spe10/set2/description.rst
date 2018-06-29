@@ -8,7 +8,7 @@ SPE10 Dataset 2
 Summary
 -------
 
-This directory contains permeability and porosity data provided for the SPE10 Model 2 benchmark.  The original discription can be found here:
+This directory contains permeability and porosity data provided for the SPE10 Model 2 benchmark.  The original description can be found here:
 
     http://www.spe.org/web/csp/datasets/set02.htm
 
