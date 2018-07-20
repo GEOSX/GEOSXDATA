@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian">
+    <PUnstructuredGrid GhostLevel="0">
+        <PPointData>
+            <DataArray type="UInt64" Name="original_index" format="ascii" NumberOfComponents="1"/>
+        </PPointData>
+        <PCellData>
+            <DataArray type="UInt64" Name="partition" format="ascii" NumberOfComponents="1"/>
+            <DataArray type="UInt64" Name="region" format="ascii" NumberOfComponents="1"/>
+            <DataArray type="UInt64" Name="original_index" format="ascii" NumberOfComponents="1"/>
+        </PCellData>
+        <PPoints>
+            <PDataArray type="Float64" Name="Points" format="ascii" NumberOfComponents="3"/>
+        </PPoints>
+        <Piece Source="4layers_0.vtu"/>
+        <Piece Source="4layers_1.vtu"/>
+        <Piece Source="4layers_2.vtu"/>
+        <Piece Source="4layers_3.vtu"/>
+        <Piece Source="4layers_4.vtu"/>
+        <Piece Source="4layers_5.vtu"/>
+        <Piece Source="4layers_6.vtu"/>
+        <Piece Source="4layers_7.vtu"/>
+        <Piece Source="4layers_8.vtu"/>
+        <Piece Source="4layers_9.vtu"/>
+    </PUnstructuredGrid>
+</VTKFile>
