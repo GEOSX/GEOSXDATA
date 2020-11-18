@@ -1,14 +1,13 @@
-Egg model mesh files
+Tiny model mesh files
 ====================
 
-Dataset with 18553 cells. Note that the mesh file provided in this repository only contains the active cells of the problem. 
-
+Dataset with 201 tetrahedral cells, meant for debugging.
+The file only describes the mesh and does not contain the porosity and permeability fields.
 
 License
 -------
 
-This dataset is in the public domain.
-It was originally presented `here <https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.21>`_
+Available publicly.
 
 File description
 -----------------
@@ -16,6 +15,6 @@ File description
 +------------------------------------+-------+---------------------------------------------------------------+
 |      File                          | Type  |  Description                                                  | 
 +=================+=======+==================================================================================+
-|   egg.msh                          | ascii | Active cells of the egg model, with permeability field        |
+|   tiny.mesh                        | ascii | Mesh file in the Medit format (cell and vertex data only)     |
 +------------------------------------+-------+---------------------------------------------------------------+
 
