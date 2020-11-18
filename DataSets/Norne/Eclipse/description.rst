@@ -14,7 +14,7 @@ Copyright (C) 2015 Statoil
 The full Eclipse input dataset is available at:
 https://opm-project.org/?page_id=559
 
-Files description
+File descriptions
 -----------------
 
 +----------------------------+--------+--------------------------------------------------------------------------------+

@@ -10,8 +10,8 @@ They are made available by the initative of Mike Christie (Heriot-Watt Universit
 and Martin Blunt (Imperial College).
 
  
- Files description
- -----------------
+File descriptions
+-----------------
 
 +-----------------+-------+--------------------------------------------------------------------------------+
 |      File       | Type  |  Description                                                                   | 

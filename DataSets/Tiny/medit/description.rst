@@ -7,7 +7,9 @@ The file only describes the mesh and does not contain the porosity and permeabil
 License
 -------
 
-Available publicly.
+Creative Commons CC BY 4.0
+
+https://creativecommons.org/licenses/by/4.0/
 
 File description
 -----------------
