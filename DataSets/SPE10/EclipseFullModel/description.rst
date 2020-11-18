@@ -10,15 +10,15 @@ They are made available by the initative of Mike Christie (Heriot-Watt Universit
 and Martin Blunt (Imperial College).
 
  
- Files description
- -----------------
+File descriptions
+-----------------
 
 +-----------------+-------+--------------------------------------------------------------------------------+
 |      File       | Type  |  Description                                                                   | 
 +=================+=======+================================================================================+
 |   SPE10.EGRID   | binary| Grid of SPE10                                                                  |
 +-----------------+-------+--------------------------------------------------------------------------------+
-|   SPE10.INIT    | binary| Inital properties                                                              |
+|   SPE10.INIT    | binary| Initial properties                                                             |
 +-----------------+-------+--------------------------------------------------------------------------------+
 |   SPE10.DATA    | text  | Contains prescribed time steps, well positions and types and fluid properties  |
 +-----------------+-------+--------------------------------------------------------------------------------+
