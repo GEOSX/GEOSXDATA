@@ -2,3 +2,4 @@ data/spe10/eclipse/SPE10.EGRID filter=lfs diff=lfs merge=lfs -text
 data/spe10/eclipse/SPE10.INIT filter=lfs diff=lfs merge=lfs -text
 data/spe10/eclipse/EclipseDeck/SPE10_PERM.INC filter=lfs diff=lfs merge=lfs -text
 data/spe10/eclipse/EclipseDeck/SPE10_PHI.INC filter=lfs diff=lfs merge=lfs -text
+*.H@ filter=lfs diff=lfs merge=lfs -text
